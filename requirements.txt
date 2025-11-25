@@ -1,8 +1,6 @@
 flask==3.0.0
 flask-cors==4.0.0
 supabase==2.3.0
-pandas
-matplotlib
 reportlab==4.0.7
 pillow
 python-dotenv==1.0.0
